@@ -2,7 +2,7 @@
 using namespace std;
 void mergeSort(int input[], int sizee){
 
-    //cout<<"here";
+    cout<<"here";
     if(sizee==1 || !sizee)
         return;
     int mid = sizee/2;
